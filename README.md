@@ -73,3 +73,6 @@ If you have any questions or feedback about this project, feel free to reach out
 
 1. Email: marcusfajemisin@gmail.com
 2. GitHub: (https://github.com/AOF-O5-1)
+
+## Tutorial Video
+https://drive.google.com/file/d/1utT6QbcuBW0WQhpzJM4N6AcVFn8xhxWh/view
